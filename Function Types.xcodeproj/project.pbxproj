@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D064E847287319D600DDD4B9 /* Function_TypesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E846287319D600DDD4B9 /* Function_TypesApp.swift */; };
+		D064E847287319D600DDD4B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E846287319D600DDD4B9 /* main.swift */; };
 		D064E849287319D600DDD4B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E848287319D600DDD4B9 /* ContentView.swift */; };
 		D064E84B287319D800DDD4B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E84A287319D800DDD4B9 /* Assets.xcassets */; };
 		D064E84E287319D800DDD4B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E84D287319D800DDD4B9 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D064E843287319D600DDD4B9 /* Function Types.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Function Types.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D064E846287319D600DDD4B9 /* Function_TypesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function_TypesApp.swift; sourceTree = "<group>"; };
+		D064E846287319D600DDD4B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D064E848287319D600DDD4B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D064E84A287319D800DDD4B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D064E84D287319D800DDD4B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D064E845287319D600DDD4B9 /* Function Types */ = {
 			isa = PBXGroup;
 			children = (
-				D064E846287319D600DDD4B9 /* Function_TypesApp.swift */,
+				D064E846287319D600DDD4B9 /* main.swift */,
 				D064E848287319D600DDD4B9 /* ContentView.swift */,
 				D064E84A287319D800DDD4B9 /* Assets.xcassets */,
 				D064E84F287319D800DDD4B9 /* Function_Types.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D064E849287319D600DDD4B9 /* ContentView.swift in Sources */,
-				D064E847287319D600DDD4B9 /* Function_TypesApp.swift in Sources */,
+				D064E847287319D600DDD4B9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
